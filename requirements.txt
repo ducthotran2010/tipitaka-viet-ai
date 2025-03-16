@@ -1,0 +1,16 @@
+transformers
+langchain_core
+langchain_community
+pypdf
+together
+fastapi
+langchain_together
+python-multipart
+rich
+langchain-mongodb 
+pymongo
+python-dotenv
+fastapi-poe
+sqlalchemy
+psycopg2
+alembic

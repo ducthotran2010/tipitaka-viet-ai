@@ -1,0 +1,9 @@
+*
+!cmd/
+!service/
+!templates/
+!db
+!main.py
+!requirements.txt
+!alembic.ini
+!alembic/
